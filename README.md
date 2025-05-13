@@ -19,7 +19,7 @@ Python 3.x 환경에서 아래 패키지를 설치하세요:
 
 ```bash
 pip install pymupdf pillow pyobjc-core pyobjc-framework-Vision pyobjc-framework-Quartz
-
+```
 
 ## 실행
 python ocr.py
