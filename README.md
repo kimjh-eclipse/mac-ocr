@@ -1,7 +1,9 @@
-# mac-ocr
-macOS Live Text OCR sample
+# macOS Live Text OCR sample
 
-# install
+# Install
 ```
 pip install pymupdf pillow pyobjc-core pyobjc-framework-Vision pyobjc-framework-Quartz
 ```
+
+# Run
+python ocr.py
