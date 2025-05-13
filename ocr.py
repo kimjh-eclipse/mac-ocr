@@ -63,5 +63,5 @@ def pdf_to_text(pdf_path: str, output_txt: str = "output.txt"):
 # ===== 실행 예시 =====
 if __name__ == "__main__":
     # PDF 파일 경로 지정
-    pdf_file = "sport_medical.pdf"  # <- 여기에 OCR하고자 하는 PDF 파일 이름 입력
+    pdf_file = "sample.pdf"  # <- 여기에 OCR하고자 하는 PDF 파일 이름 입력
     pdf_to_text(pdf_file)
