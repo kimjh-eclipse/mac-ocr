@@ -1,0 +1,5 @@
+pymupdf
+pillow
+pyobjc-core
+pyobjc-framework-Vision
+pyobjc-framework-Quartz
